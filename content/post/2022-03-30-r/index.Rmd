@@ -1,0 +1,12 @@
+---
+title: R을 이용한 블로그생성 테스트
+author: E.nanino
+date: '2022-03-30'
+slug: R
+categories:
+  - R
+tags:
+  - plot
+---
+
+함 만들어본다
