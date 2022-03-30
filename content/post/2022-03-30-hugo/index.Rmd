@@ -8,4 +8,4 @@ categories:
 tags:
   - plot
 ---
-존나 복잡네
+삽질하는 재미
